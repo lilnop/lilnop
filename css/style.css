@@ -1,0 +1,87 @@
+body{
+  background-color: #7F00FF;
+  color:white;
+}
+.image-size{
+  width:100px;
+  height:100px;
+}
+.containerColor{
+  background-color: yellow;
+  color:black;
+  margin-top: 20px;
+  padding:40px;
+}
+.portImage{
+  width:400px;
+  height:200px;
+  margin:15px;
+}
+.portImage:hover{  
+  box-shadow: 0 0 2px 1px black;
+  cursor:pointer;
+}
+img{
+  transition: 0.3s;
+}
+.portImage:hover{
+  background:green;
+}
+.myImg{
+  height:150px;
+  width:150px;
+}
+.containerSpace{
+  margin-top: 20px;
+  padding:40px;
+}
+
+.social-wrap { 
+  margin:0 auto; 
+  padding:0px; 
+  text-decoration: none; 
+}
+.social-wrap ul li { 
+  list-style-type: none; 
+  border-bottom:none; 
+  margin:0 auto; 				
+  background: none; 
+  padding:0px; 
+  line-height: 0!important; 
+}
+.social-wrap li a { 
+  margin:5px 3px 0px 0px !important; 
+  padding:0px; 
+  width:50px; 
+  height:50px; 
+  text-indent:-99999px;
+  float:left; 
+} 
+.social-wrap li a.facebook1 { 
+  background: #314d91 url(https://2.bp.blogspot.com/-heI32-HhzMI/Vpw6xNHQlZI/AAAAAAAAAUw/fgnVjROHRRs/s1600/social-icons.png) no-repeat 0px 0px; 
+  -webkit-transition:All 0.3s ease-out; 
+  -moz-transition:All 0.3s ease-out; 
+  -o-transition:All 0.3s ease-out; 
+} 
+.social-wrap li a.facebook1:hover { 
+  background: #314d91 url(https://2.bp.blogspot.com/-heI32-HhzMI/Vpw6xNHQlZI/AAAAAAAAAUw/fgnVjROHRRs/s1600/social-icons.png) no-repeat 0px -73px; 
+} 
+.social-wrap li a.twitter1 { 
+  background: #07beed url(https://2.bp.blogspot.com/-heI32-HhzMI/Vpw6xNHQlZI/AAAAAAAAAUw/fgnVjROHRRs/s1600/social-icons.png) no-repeat 0px -127px; 
+  -webkit-transition:All 0.3s ease-out; 
+  -moz-transition:All 0.3s ease-out; 
+  -o-transition:All 0.3s ease-out; 
+} 
+.social-wrap li a.twitter1:hover { 
+  background: #07beed url(https://2.bp.blogspot.com/-heI32-HhzMI/Vpw6xNHQlZI/AAAAAAAAAUw/fgnVjROHRRs/s1600/social-icons.png) no-repeat 0px -204px; 
+} 
+
+.social-wrap li a.linkdin1 { 
+background:#1698E3 url(https://2.bp.blogspot.com/-heI32-HhzMI/Vpw6xNHQlZI/AAAAAAAAAUw/fgnVjROHRRs/s1600/social-icons.png) no-repeat 0px -635px; 
+-webkit-transition:All 0.3s ease-out; 
+-moz-transition:All 0.3s ease-out; 
+-o-transition:All 0.3s ease-out; 
+} 
+.social-wrap li a.linkdin1:hover { 
+background: #1698e3 url(https://2.bp.blogspot.com/-heI32-HhzMI/Vpw6xNHQlZI/AAAAAAAAAUw/fgnVjROHRRs/s1600/social-icons.png) no-repeat 0px -711px; 
+}
