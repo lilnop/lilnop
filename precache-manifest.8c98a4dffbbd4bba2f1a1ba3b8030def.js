@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4e2985431d6c923e838e6ecb5f2efff",
+    "revision": "52deb47571d2b9c9e36f2c14f29d957b",
     "url": "/lilnop/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lilnop/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "9f5cbcb8674400325541",
-    "url": "/lilnop/static/css/main.b3c017a0.chunk.css"
+    "revision": "260b85b3e5be28ec8c33",
+    "url": "/lilnop/static/css/main.8a389516.chunk.css"
   },
   {
     "revision": "c1181c4da15b830bbe4b",
     "url": "/lilnop/static/js/2.d8194deb.chunk.js"
   },
   {
-    "revision": "9f5cbcb8674400325541",
-    "url": "/lilnop/static/js/main.9973070d.chunk.js"
+    "revision": "260b85b3e5be28ec8c33",
+    "url": "/lilnop/static/js/main.1f6bad38.chunk.js"
   },
   {
     "revision": "781212c11caf0b00ff96",
